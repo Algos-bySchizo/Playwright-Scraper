@@ -1,0 +1,50 @@
+{
+  "services": [
+    {
+      "title": "AI Transformation",
+      "description": "Ready to elevate your business to the next level?"
+    },
+    {
+      "title": "AI Transformation",
+      "description": "Unlock AI's potential with our AI transformation services."
+    },
+    {
+      "title": "Custom Software Development",
+      "description": "At 360xpertsolutions, we create custom software solutions for your business needs."
+    },
+    {
+      "title": "MVP Development",
+      "description": "Build tailored MVPs to launch fast, gather feedback, validate ideas, and attract investors."
+    },
+    {
+      "title": "Application Modernization",
+      "description": "Transform legacy systems into fast, secure, and scalable applications."
+    },
+    {
+      "title": "Build with Our Experts",
+      "description": "Get a dedicated team that turns your product vision into a scalable, market-ready solution."
+    }
+  ],
+  "products": [
+    {
+      "link": "https://conclavity.com/home",
+      "title": "Conclavity",
+      "heading": ""
+    },
+    {
+      "link": "https://sochai.360xpertsolutions.com/",
+      "title": "Soch AI | Chat With AI",
+      "heading": "Genius say Jugaar tak"
+    },
+    {
+      "link": "https://spot-tracker.360xpertsolutions.com/",
+      "title": "Spot Tracker",
+      "heading": "Revolutionize Your Inventory Management with Spot Tracker"
+    },
+    {
+      "link": "https://web.xpertassistant.com/",
+      "title": "",
+      "heading": "Hire Professionals 10x Faster with Our AIXpert Assistant"
+    }
+  ]
+}
