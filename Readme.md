@@ -38,10 +38,10 @@ npx playwright install firefox
 Run the scraper with:
 
 ```bash
-npx ts-node index.ts
+npx ts-node script.ts
 ```
 
-(Replace `index.ts` with the actual filename if it's different.)
+(Replace `script.ts` with the actual filename if it's different.)
 
 This will:
 - Open a visible Firefox window (since `headless: false` is set)
